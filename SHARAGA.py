@@ -13,3 +13,4 @@ var_str = var_str + var_str + "Yes" * 3
 print("var_int =", var_int)
 print("var_float =", var_float)
 print("var_str =", var_str)# New functional requirement
+# Updated after code review: optimized logic
